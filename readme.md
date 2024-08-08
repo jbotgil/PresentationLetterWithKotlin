@@ -14,7 +14,7 @@ Esta es una pequeña app que he aprendido a hacer en un curso de Kotlin proporci
 
 <p align="center">
    <img src="resourcesReadme/pantallaInicio.png" alt="Pantalla de Inicio">
-   <img src="resourcesReadme/pantallaDentro.png" alt="Pantalla dentro de la aplicacion">
+   <img src="resourcesReadme/pantallaApp.png" alt="Pantalla dentro de la aplicacion">
 </p>
 
 
