@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarjeta Presentación Javier Botella Gil</string>
+    <string name="Nombre">Javier Botella</string>
+    <string name="titulo">Desarrollador de Software</string>
+    <string name="telefono">(+34) ### ## ## ##</string>
+    <string name="github">jbotgil</string>
+    <string name="mail">javibotella05@gmail.com</string>
+</resources>
