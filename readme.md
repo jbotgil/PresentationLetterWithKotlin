@@ -12,6 +12,12 @@ Esta es una pequeña app que he aprendido a hacer en un curso de Kotlin proporci
 
 - **Vista:** Esta App nos proporciona la vista de una simple tarjeta de presentación hecha a través de código en Kotlin
 
+<p align="center">
+   <img src="resourcesReadme/pantallaInicio.png" alt="Pantalla de Inicio">
+   <img src="resourcesReadme/pantallaDentro.png" alt="Pantalla dentro de la aplicacion">
+</p>
+
+
 ## Installation
 
 Sigue estos pasos para instalar y ejecutar el proyecto:
